@@ -37,41 +37,6 @@
 </div>
 
 ---
-
-<!-- 👨‍💻 ABOUT ME -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:FF0080&text=👨‍💻+ABOUT+ME&fontAlign=50&fontSize=50&fontColor=fff&animation=scaleIn&font=Orbitron" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1&pause=1&color=00FF00&center=true&vCenter=true&width=400&lines=%3E+cat+profile.json" />
-</div>
-
-<br>
-
-```typescript
-// nitish.config.ts
-const nitish = {
-  role: "Full-Stack Developer & AI Engineer",
-  experience: "7+ Years",
-  company: "Growchip",
-  location: "India 🇮🇳",
-  specialties: [
-    "AI Agents 🤖",
-    "Generative AI 🧠",
-    "SaaS Platforms 🚀",
-    "Workflow Automation ⚡",
-    "Scalable Backend Systems 🏗️"
-  ],
-  techFocus: {
-    frontend: ["React", "Next.js", "TypeScript"],
-    backend: ["Node.js", "Python", "FastAPI"],
-    ai: ["OpenAI", "LangChain", "RAG Systems"],
-    devops: ["Docker", "AWS", "CI/CD"]
-  },
-  currentlyBuilding: "AI-powered SaaS & automation systems",
-  availability: "Open for freelance & remote opportunities 🌍"
-};
 ```
 
 <br>
