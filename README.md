@@ -107,15 +107,15 @@ With **7+ years of remote experience**, I turn complex business challenges into 
 
 # 📈 GitHub Stats
 
-![Nitish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitish-wfrm&show_icons=true&theme=tokyonight)
+![Nitish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=drntoday&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitish-wfrm&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drntoday&layout=compact&theme=tokyonight)
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nitish-wfrm&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=drntoday&theme=tokyonight)
 
 ---
 
