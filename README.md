@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+Scalable+AI+Products+%F0%9F%A7%A0;Crafting+Modern+Full-Stack+Experiences+%F0%9F%9A%80;Automating+Workflows+with+AI+Agents+%E2%9A%A1;Turning+Ideas+Into+Production-Ready+Systems+%F0%9F%8C%90" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+Scalable+AI+Products+🧠;Crafting+Modern+Full-Stack+Experiences+🚀;Automating+Workflows+with+AI+Agents+⚡;Turning+Ideas+Into+Production-Ready+Systems+🌐" />
 
 <br><br>
 
@@ -45,7 +45,7 @@
 ### ✨ Navigation
 
 [About](#-about-me) •
-[Tech Stack](#-tech-stack) •
+[Tech Stack](#️-tech-stack) •
 [Projects](#-featured-projects) •
 [Experience](#-experience) •
 [GitHub Stats](#-github-analytics) •
@@ -59,9 +59,10 @@
 
 <table>
 <tr>
+
 <td width="55%" valign="top">
 
-<pre lang="typescript">
+<pre>
 
 // profile.ts
 
@@ -99,11 +100,13 @@ const nitish = {
 
 <td width="45%" align="center">
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c00-5c0e924a4107.gif"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c00-5c0e924a4107.gif" />
 
 </td>
+
 </tr>
 </table>
+
 ---
 
 # ⚡ Quick Highlights
