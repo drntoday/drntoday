@@ -30,7 +30,6 @@
 
 [![Projects](https://img.shields.io/badge/🚀_PROJECTS-FF0080?style=for-the-badge&logoColor=white)](#-featured-projects)
 [![Stack](https://img.shields.io/badge/🛠️_STACK-00FFFF?style=for-the-badge&logoColor=black)](#-tech-stack)
-[![Stats](https://img.shields.io/badge/📈_STATS-FFD700?style=for-the-badge&logoColor=black)](#-github-analytics)
 [![Contact](https://img.shields.io/badge/📫_CONTACT-00FF00?style=for-the-badge&logoColor=black)](#-connect-with-me)
 
 </div>
@@ -97,25 +96,6 @@
 | 🤖 **Lead Qualification Agent** | AI-powered lead scoring & CRM automation integrated with Slack workflows. | ![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![Make](https://img.shields.io/badge/Make-000000?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
 | 📊 **SaaS Analytics Dashboard** | High-performance analytics dashboard optimized for scalability & speed. | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | 🛒 **E-Commerce Ecosystems** | Custom Shopify & WooCommerce platforms with secure payment integrations. | ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white) |
-
-<br>
-
-<!-- 📈 GITHUB ANALYTICS -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=150&color=0:00FF00,100:00FFFF&text=📈+GITHUB+ANALYTICS&fontAlign=50&fontSize=45&fontColor=000&animation=fadeIn&font=Orbitron" width="100%"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drntoday&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=00FFFF&title_color=FFD700"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/drntoday/drntoday/output/github-contribution-grid-snake-dark.svg" />
-</div>
 
 <br>
 
