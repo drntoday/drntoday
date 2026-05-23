@@ -108,20 +108,7 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drntoday&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&ring_color=FF0080&text_color=00FFFF&title_color=FFD700&icon_color=00FF00"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drntoday&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=00FFFF&title_color=FFD700"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drntoday&theme=radical&hide_border=true&background=0D1117&ring=FF0080&fire=FFD700&currStreakLabel=00FFFF"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=drntoday&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drntoday&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=00FFFF&title_color=FFD700"/>
 </div>
 
 <br>
