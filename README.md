@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-  <a href="https://nitish-wfrm.vercel.app/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://nitish-kumar-one.vercel.app/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://github.com/drntoday"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://t.me/nitishkumar180424"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="mailto:nitishkumar180424@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -141,7 +141,7 @@
 
 <div align="center">
   <a href="https://github.com/drntoday"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://nitish-wfrm.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://nitish-kumar-one.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://t.me/nitishkumar180424"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="mailto:nitishkumar180424@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.paypal.com/paypalme/payeenitish"><img src="https://img.shields.io/badge/PAYPAL-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
