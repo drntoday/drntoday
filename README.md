@@ -51,29 +51,17 @@
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c00-5c0e924a4107.gif" alt="Coding Animation" />
 
 ```typescript
-// nitish.config.ts
-const nitish = {
-  role: "Full-Stack Developer & AI Engineer",
-  experience: "7+ Years",
-  company: "Growchip",
-  location: "India 🇮🇳",
-  specialties: [
-    "AI Agents 🤖",
-    "Generative AI 🧠",
-    "SaaS Platforms 🚀",
-    "Workflow Automation ⚡",
-    "Scalable Backend Systems 🏗️"
-  ],
-  techFocus: {
-    frontend: ["React", "Next.js", "TypeScript"],
-    backend: ["Node.js", "Python", "FastAPI"],
-    ai: ["OpenAI", "LangChain", "RAG Systems"],
-    devops: ["Docker", "AWS", "CI/CD"]
-  },
-  currentlyBuilding: "AI-powered SaaS & automation systems",
-  availability: "Open for freelance & remote opportunities 🌍"
-};
-```
+<br>
+
+<div align="center">
+
+| 💻 **`nitish.config.ts`** |
+| :--- |
+| <pre>const nitish = {<br>  role: "Full-Stack Developer & AI Engineer",<br>  experience: "7+ Years",<br>  company: "Growchip",<br>  location: "India 🇮🇳",<br><br>  specialties: [<br>    "AI Agents 🤖", "Generative AI 🧠", "SaaS Platforms 🚀",<br>    "Workflow Automation ⚡", "Scalable Backend Systems 🏗️"<br>  ],<br><br>  techFocus: {<br>    frontend: ["React", "Next.js", "TypeScript"],<br>    backend: ["Node.js", "Python", "FastAPI"],<br>    ai: ["OpenAI", "LangChain", "RAG Systems"],<br>    devops: ["Docker", "AWS", "CI/CD"]<br>  },<br><br>  currentlyBuilding: "AI-powered SaaS & automation systems",<br>  availability: "Open for freelance & remote opportunities 🌍"<br>};</pre> |
+
+</div>
+
+<br>```
 
 <br clear="both"/>
 
