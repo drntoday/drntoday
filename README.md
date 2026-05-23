@@ -61,7 +61,8 @@
 <tr>
 <td width="55%" valign="top">
 
-```ts
+<pre lang="typescript">
+
 // profile.ts
 
 const nitish = {
@@ -69,7 +70,7 @@ const nitish = {
   experience: "7+ Years",
   company: "Growchip",
   location: "India 🇮🇳",
-  
+
   specialties: [
     "AI Agents",
     "Generative AI",
@@ -91,7 +92,8 @@ const nitish = {
   availability:
     "Open for freelance, remote & startup collaborations"
 };
-```
+
+</pre>
 
 </td>
 
@@ -102,7 +104,6 @@ const nitish = {
 </td>
 </tr>
 </table>
-
 ---
 
 # ⚡ Quick Highlights
