@@ -1,144 +1,199 @@
-# Hi there, I'm Nitish Kumar 👋
+<div align="center">
 
-## 🚀 Full-Stack Developer | AI Automation Engineer | Remote Builder
+# Nitish Kumar
+### Full-Stack Developer • AI Automation Engineer • SaaS Builder
 
-I build **scalable web applications**, **AI-powered systems**, and **workflow automation tools** that help startups and businesses save time, improve efficiency, and accelerate growth.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;Full-Stack+Developer+with+Business+Vision;Automation+Engineer+%7C+SaaS+Architect;Creating+Scalable+Digital+Products" alt="Typing SVG" />
 
-With **7+ years of remote experience**, I turn complex business challenges into production-ready solutions — from full-stack SaaS platforms to intelligent AI agents.
+<br/>
 
-🌐 **Portfolio:** [nitish-wfrm.vercel.app](https://nitish-wfrm.vercel.app/)  
-📍 India | 🌍 Open to Global Remote Opportunities  
-💼 Available for Full-Time Freelance & Contracts
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nitish-wfrm.vercel.app/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nitishkumar180424)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitishkumar180424@gmail.com)
+[![PayPal](https://img.shields.io/badge/Support_My_Work-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/payeenitish)
 
----
+<br/>
 
-## 💡 About Me
+<img src="https://komarev.com/ghpvc/?username=drntoday&label=Profile%20Views&color=7C3AED&style=flat" alt="profile views" />
 
-- 🔭 Currently building intelligent SaaS & automation systems at **Growchip**
-- 🤖 Specialist in **AI agents, GPT-4 integrations, LangChain, and workflow automation**
-- 🌐 Full-stack developer focused on **React.js, Next.js, Node.js, Python, and cloud deployment**
-- ⚡ Passionate about **performance optimization** (reduced API response time by 35%)
-- 🧠 Previously at **Dexter AI Solution** and **Richestsoft**
-- 💼 Strong experience collaborating in **Agile remote teams** across time zones
+</div>
 
 ---
 
-# 🛠 Tech Stack
+# 👨‍💻 About Me
 
-## Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+```ts
+const nitish = {
+  role: "Full-Stack Developer & AI Automation Engineer",
+  experience: "7+ Years",
+  location: "India • Remote Worldwide",
+  company: "Growchip",
+  focus: [
+    "AI Agents",
+    "Generative AI",
+    "SaaS Platforms",
+    "Automation Systems",
+    "Scalable Full-Stack Applications"
+  ],
+  currentlyBuilding: "AI-powered SaaS & Workflow Automation Systems",
+  availability: "Open for Freelance & Remote Opportunities"
+};
+```
 
-## Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+I specialize in building intelligent digital systems that combine modern web technologies, AI automation, and scalable backend architecture.
 
-## Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-## AI & Automation
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4B0082?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge)
-
-## Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-## Tools & Integrations
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6935D3?style=for-the-badge&logo=integromat&logoColor=white)
+My work focuses on helping startups, businesses, and entrepreneurs transform ideas into production-ready applications that automate workflows, improve operational efficiency, and accelerate growth.
 
 ---
 
-# 🚀 What I Build
+# ⚡ What I Build
 
-✅ Full-Stack Web Applications (React, Next.js, Node.js)  
-✅ AI-Powered SaaS Platforms  
-✅ Intelligent Chatbots & Document Summarization  
-✅ AI Agents & Workflow Automation  
-✅ Scalable REST & GraphQL APIs  
-✅ E-Commerce Platforms (WordPress, Shopify, WooCommerce)  
-✅ Real-Time Applications & Dashboards  
-✅ Business Process Automation (20+ hours saved weekly for teams)
+<div align="center">
 
----
+| 🚀 Product Engineering | 🤖 AI & Automation | 🌐 Full-Stack Systems |
+|---|---|---|
+| SaaS Platforms | AI Agents | MERN Applications |
+| Analytics Dashboards | GPT-4 Workflows | REST APIs |
+| E-Commerce Systems | LangChain Pipelines | Real-Time Apps |
+| Custom Business Tools | Lead Automation | Cloud Infrastructure |
 
-# 💼 Professional Journey
-
-### **Full-Stack & AI Developer** — *Growchip* (2023 – Present)
-- Built full-stack apps and AI chatbots with React, Node.js, OpenAI, LangChain
-- Reduced API response time by **35%** through backend optimization
-- Delivered **5+ production-ready SaaS modules**
-- Built document summarization APIs handling **10K+ monthly requests**
-
-### **AI Integration Specialist** — *Dexter AI Solution* (2021 – 2023)
-- Designed GPT-based automation pipelines and AI lead‑qualification agents
-- Created APIs handling **500+ daily requests**
-- Saved operational teams **20+ hours weekly** with automated reporting
-- Implemented Docker & CI/CD (GitHub Actions) for reliable deployments
-
-### **Junior Full-Stack Developer** — *Richestsoft* (2018 – 2021)
-- Developed responsive frontends (React, WordPress, Shopify) and Node.js backends
-- Assisted in migrating legacy PHP systems to MERN stack
-- Built real-time features using Firebase & WebSockets
+</div>
 
 ---
 
-# 📈 GitHub Stats
+# 📌 Featured Projects
 
-![GitHub Stats](https://gh-stats.com/api?username=drntoday&show_icons=true&theme=tokyonight)
-![Top Languages](https://gh-stats.com/api/top-langs?username=drntoday&layout=compact&theme=tokyonight)
+<div align="center">
+
+| Project | Description | Technologies |
+|---|---|---|
+| 🧠 **AI Document Summarizer** | Enterprise AI platform processing 10K+ monthly requests with intelligent summarization workflows | `OpenAI` `LangChain` `Node.js` `Python` |
+| 🤖 **Lead Qualification Agent** | Automated AI lead scoring system integrated with Slack & CRM workflows | `GPT-4` `Slack API` `Make` `Node.js` |
+| 📊 **SaaS Analytics Dashboard** | High-performance analytics dashboard optimized to 1.1s load speed | `React` `Node.js` `PostgreSQL` `Docker` |
+| 🛒 **E-Commerce Ecosystems** | Custom Shopify & WordPress commerce platforms with secure payment integrations | `Shopify` `WooCommerce` `WordPress` |
+
+</div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🛠️ Tech Arsenal
 
-![GitHub Streak](https://streak-stats.demolab.com?user=drntoday&theme=tokyonight)
+## Frontend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,redux,html,css" />
+</p>
+
+## Backend & Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,mongodb,postgresql,firebase" />
+</p>
+
+## AI • DevOps • Cloud
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,githubactions,git,linux" />
+</p>
+
+<div align="center">
+
+### AI Stack
+`OpenAI` • `LangChain` • `LlamaIndex` • `Prompt Engineering` • `RAG Systems` • `Automation Pipelines`
+
+</div>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=drntoday&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drntoday&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=drntoday&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=drntoday&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+# 💼 Professional Experience
+
+## 🚀 Full-Stack & AI Developer — Growchip
+### *2023 — Present*
+
+- Built AI-powered SaaS applications using React, Node.js, OpenAI & LangChain
+- Reduced backend API response time by **35%**
+- Developed production systems handling **10K+ monthly AI requests**
+- Delivered scalable SaaS modules & intelligent workflow automation
+
+---
+
+## 🤖 AI Integration Specialist — Dexter AI Solution
+### *2021 — 2023*
+
+- Engineered GPT-based automation pipelines
+- Built AI lead qualification systems with CRM integrations
+- Automated operational workflows saving **20+ hours weekly**
+- Implemented Docker & CI/CD deployment infrastructure
+
+---
+
+## 💻 Junior Full-Stack Developer — Richestsoft
+### *2018 — 2021*
+
+- Developed responsive web applications & e-commerce systems
+- Migrated legacy applications to MERN architecture
+- Built real-time systems using Firebase & WebSockets
 
 ---
 
 # 🎓 Certifications
 
-- **AI Agents & LangChain** – DeepLearning.AI (2025)
-- **ChatGPT Prompt Engineering for Developers** – DeepLearning.AI (2024)
-- **Full-Stack Web Development with React & Node.js** – Meta / Coursera (2023)
+🏆 **AI Agents & LangChain** — DeepLearning.AI  
+🏆 **Prompt Engineering for Developers** — DeepLearning.AI  
+🏆 **Full-Stack Web Development** — Meta / Coursera  
 
 ---
 
-# 🌍 Connect With Me
+# 🌍 Let's Connect
+
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drntoday)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nitish-wfrm.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitishkumar180424@gmail.com) 
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nitishkumar180424)
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitishkumar180424@gmail.com)
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/payeenitish)
+
+</div>
 
 ---
 
-# 🎯 Vision
+<div align="center">
 
-My goal is to build smart, scalable, and automation‑driven systems that empower businesses to save time, reduce costs, and achieve more through intelligent technology.
+## 💡 Philosophy
 
----
+### *"Building scalable intelligent systems that turn ideas into real business impact."*
 
-⭐ **Always open to remote collaborations, innovative projects, and impactful opportunities. Let’s build the future — intelligently.**
+<br/>
+
+⭐ If you like my work, consider supporting my projects or collaborating on something amazing.
+
+</div>
