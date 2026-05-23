@@ -28,7 +28,6 @@
 <!-- 🧭 NAVIGATION BADGES -->
 <div align="center">
 
-[![About](https://img.shields.io/badge/👨‍💻_ABOUT-7C3AED?style=for-the-badge&logoColor=white)](#-about-me)
 [![Projects](https://img.shields.io/badge/🚀_PROJECTS-FF0080?style=for-the-badge&logoColor=white)](#-featured-projects)
 [![Stack](https://img.shields.io/badge/🛠️_STACK-00FFFF?style=for-the-badge&logoColor=black)](#-tech-stack)
 [![Stats](https://img.shields.io/badge/📈_STATS-FFD700?style=for-the-badge&logoColor=black)](#-github-analytics)
@@ -37,25 +36,6 @@
 </div>
 
 ---
-```
-
-<br>
-
-<div align="center">
-  <img width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c00-5c0e924a4107.gif" alt="Coding Animation" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🚀_7%2B_YEARS-111111?style=for-the-badge&labelColor=7C3AED"/>
-  <img src="https://img.shields.io/badge/🤖_AI_MASTER-111111?style=for-the-badge&labelColor=FF0080"/>
-  <br>
-  <img src="https://img.shields.io/badge/🌐_SAAS_ARCH-111111?style=for-the-badge&labelColor=00FFFF"/>
-  <img src="https://img.shields.io/badge/⚡_FULL_STACK-111111?style=for-the-badge&labelColor=00FF00"/>
-</div>
-
-<br>
 
 <!-- 🚀 WHAT I BUILD -->
 <div align="center">
@@ -219,4 +199,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:FF0080,50:7928CA,100:00FFFF&animation=twinkling"/>
 </div>
-```
