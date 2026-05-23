@@ -1,6 +1,6 @@
-<!-- ========================= -->
+<!-- ===================================================== -->
 <!-- 🚀 HERO SECTION -->
-<!-- ========================= -->
+<!-- ===================================================== -->
 
 <div align="center">
 
@@ -36,94 +36,112 @@
 
 ---
 
-<!-- ========================= -->
+<!-- ===================================================== -->
 <!-- 🧭 NAVIGATION -->
-<!-- ========================= -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-### ✨ Navigation
+## ✨ Navigation
 
-[About](#-about-me) •
-[Tech Stack](#️-tech-stack) •
-[Projects](#-featured-projects) •
-[Experience](#-experience) •
-[GitHub Stats](#-github-analytics) •
-[Contact](#-connect-with-me)
+[👨‍💻 About](#-about-me) •
+[🚀 Projects](#-featured-projects) •
+[🛠️ Tech Stack](#️-tech-stack) •
+[📈 GitHub Stats](#-github-analytics) •
+[💼 Experience](#-experience) •
+[📫 Contact](#-connect-with-me)
 
 </div>
 
 ---
 
+<!-- ===================================================== -->
+<!-- 👨‍💻 ABOUT ME -->
+<!-- ===================================================== -->
+
 # 👨‍💻 About Me
 
-<table>
-<tr>
+<div align="center">
 
-<td width="55%" valign="top">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1&pause=1&color=7C3AED&center=true&vCenter=true&width=350&lines=%3E+profile.ts" />
 
-<pre>
+</div>
 
-// profile.ts
+<br>
 
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c00-5c0e924a4107.gif" />
+
+```ts
 const nitish = {
   role: "Full-Stack Developer & AI Engineer",
+
   experience: "7+ Years",
+
   company: "Growchip",
+
   location: "India 🇮🇳",
 
   specialties: [
     "AI Agents",
     "Generative AI",
     "SaaS Platforms",
-    "Automation Systems",
-    "Scalable Backend Architectures"
+    "Workflow Automation",
+    "Scalable Backend Systems"
   ],
 
   techFocus: {
-    frontend: ["React", "Next.js", "TypeScript"],
-    backend: ["Node.js", "Python", "FastAPI"],
-    ai: ["OpenAI", "LangChain", "RAG Systems"],
-    devops: ["Docker", "AWS", "CI/CD"]
+    frontend: [
+      "React",
+      "Next.js",
+      "TypeScript"
+    ],
+
+    backend: [
+      "Node.js",
+      "Python",
+      "FastAPI"
+    ],
+
+    ai: [
+      "OpenAI",
+      "LangChain",
+      "RAG Systems"
+    ],
+
+    devops: [
+      "Docker",
+      "AWS",
+      "CI/CD"
+    ]
   },
 
   currentlyBuilding:
-    "AI-powered SaaS products & intelligent automation systems",
+    "AI-powered SaaS & automation systems",
 
   availability:
-    "Open for freelance, remote & startup collaborations"
+    "Open for freelance & remote opportunities"
 };
+```
 
-</pre>
-
-</td>
-
-<td width="45%" align="center">
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c00-5c0e924a4107.gif" />
-
-</td>
-
-</tr>
-</table>
-
----
-
-# ⚡ Quick Highlights
+<br clear="both"/>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/🚀_7%2B_Years_Experience-111111?style=for-the-badge&labelColor=7C3AED"/>
 
-<img src="https://img.shields.io/badge/🤖_AI_Automation_Expert-111111?style=for-the-badge&labelColor=FF6B6B"/>
+<img src="https://img.shields.io/badge/🤖_AI_Automation-111111?style=for-the-badge&labelColor=FF6B6B"/>
 
-<img src="https://img.shields.io/badge/🌐_SaaS_Product_Engineer-111111?style=for-the-badge&labelColor=0EA5E9"/>
+<img src="https://img.shields.io/badge/🌐_SaaS_Builder-111111?style=for-the-badge&labelColor=0EA5E9"/>
 
-<img src="https://img.shields.io/badge/⚙️_Full--Stack_Architect-111111?style=for-the-badge&labelColor=10B981"/>
+<img src="https://img.shields.io/badge/⚙️_Full--Stack_Engineer-111111?style=for-the-badge&labelColor=10B981"/>
 
 </div>
 
 ---
+
+<!-- ===================================================== -->
+<!-- 🚀 WHAT I BUILD -->
+<!-- ===================================================== -->
 
 # 🚀 What I Build
 
@@ -132,22 +150,22 @@ const nitish = {
 
 <td width="33%" align="center">
 
-### 🌐 SaaS Platforms
+## 🌐 SaaS Platforms
 
-Custom scalable products built with modern full-stack architecture.
+Scalable modern software products built for startups & businesses.
 
 `Multi-Tenant Apps`  
-`Dashboards`  
-`Admin Systems`  
-`Subscription Platforms`
+`Admin Dashboards`  
+`Subscription Platforms`  
+`Analytics Systems`
 
 </td>
 
 <td width="33%" align="center">
 
-### 🤖 AI Automation
+## 🤖 AI Automation
 
-AI-powered systems that automate workflows and operations.
+Intelligent systems that automate workflows & operations.
 
 `AI Agents`  
 `GPT Workflows`  
@@ -158,14 +176,14 @@ AI-powered systems that automate workflows and operations.
 
 <td width="33%" align="center">
 
-### ⚡ Modern Web Apps
+## ⚡ Modern Web Apps
 
-Fast, responsive, production-grade applications.
+High-performance applications optimized for scale.
 
 `Next.js Apps`  
 `REST APIs`  
 `Realtime Systems`  
-`Cloud Deployments`
+`Cloud Infrastructure`
 
 </td>
 
@@ -173,6 +191,10 @@ Fast, responsive, production-grade applications.
 </table>
 
 ---
+
+<!-- ===================================================== -->
+<!-- 🛠️ TECH STACK -->
+<!-- ===================================================== -->
 
 # 🛠️ Tech Stack
 
@@ -204,9 +226,13 @@ Fast, responsive, production-grade applications.
 
 ---
 
+<!-- ===================================================== -->
+<!-- 🚀 FEATURED PROJECTS -->
+<!-- ===================================================== -->
+
 # 🚀 Featured Projects
 
-| Project | Description | Stack |
+| 🚀 Project | 📄 Description | ⚙️ Stack |
 | --- | --- | --- |
 | 🧠 **AI Document Summarizer** | Enterprise AI platform processing 10K+ monthly requests with intelligent summarization workflows. | `OpenAI` `LangChain` `Node.js` `Python` |
 | 🤖 **Lead Qualification Agent** | AI-powered lead scoring & CRM automation integrated with Slack workflows. | `GPT-4` `Slack API` `Make` `Node.js` |
@@ -214,6 +240,10 @@ Fast, responsive, production-grade applications.
 | 🛒 **E-Commerce Ecosystems** | Custom Shopify & WooCommerce platforms with secure payment integrations. | `Shopify` `WordPress` `WooCommerce` |
 
 ---
+
+<!-- ===================================================== -->
+<!-- 📈 GITHUB ANALYTICS -->
+<!-- ===================================================== -->
 
 # 📈 GitHub Analytics
 
@@ -243,6 +273,10 @@ Fast, responsive, production-grade applications.
 
 ---
 
+<!-- ===================================================== -->
+<!-- 💼 EXPERIENCE -->
+<!-- ===================================================== -->
+
 # 💼 Experience
 
 ## 🚀 Full-Stack & AI Developer — Growchip  
@@ -260,8 +294,8 @@ Fast, responsive, production-grade applications.
 
 - Engineered GPT-powered automation workflows
 - Built intelligent lead qualification systems
-- Automated operational processes & CRM pipelines
-- Managed Docker-based deployments & CI/CD infrastructure
+- Automated CRM pipelines & operational systems
+- Managed Docker deployments & CI/CD infrastructure
 
 ---
 
@@ -270,9 +304,13 @@ Fast, responsive, production-grade applications.
 
 - Developed responsive web & e-commerce applications
 - Migrated legacy systems to MERN architecture
-- Built real-time applications with Firebase & WebSockets
+- Built real-time systems with Firebase & WebSockets
 
 ---
+
+<!-- ===================================================== -->
+<!-- 🌟 CERTIFICATIONS -->
+<!-- ===================================================== -->
 
 # 🌟 Certifications
 
@@ -287,6 +325,10 @@ Fast, responsive, production-grade applications.
 </div>
 
 ---
+
+<!-- ===================================================== -->
+<!-- 📫 CONTACT -->
+<!-- ===================================================== -->
 
 # 📫 Connect With Me
 
@@ -308,9 +350,17 @@ Fast, responsive, production-grade applications.
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://www.paypal.com/paypalme/payeenitish">
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+</a>
+
 </div>
 
 ---
+
+<!-- ===================================================== -->
+<!-- 💭 PHILOSOPHY -->
+<!-- ===================================================== -->
 
 # 💭 Philosophy
 
@@ -329,6 +379,10 @@ Fast, responsive, production-grade applications.
 </div>
 
 ---
+
+<!-- ===================================================== -->
+<!-- 🌊 FOOTER -->
+<!-- ===================================================== -->
 
 <div align="center">
 
