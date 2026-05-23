@@ -5,6 +5,7 @@
 </div>
 
 <!-- Fake Navbar (Anchor Links) -->
+<!-- Note: GitHub automatically generates anchors from the H2 headers below! -->
 <div align="center">
 
 [🏠 Home](#nitish-kumar) • [👨‍💻 About](#-about-me) • [🚀 Projects](#-featured-projects) • [🛠️ Tech](#-tech-arsenal) • [📈 Stats](#-github-analytics) • [💼 Experience](#-professional-experience) • [📫 Contact](#-lets-connect)
@@ -29,19 +30,23 @@
 
 ---
 
-<a name="-about-me"></a>
-<!-- About Section -->
+## 👨‍💻 About Me
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=1&pause=1&color=00FF00&center=true&vCenter=true&width=400&lines=%3E+ABOUT_ME.exe" alt="About Me" />
 </div>
 
 <br>
 
+<!-- 
+  FIX: Using <pre> tags instead of ``` backticks. 
+  GitHub's Markdown parser breaks if you use ``` inside HTML <td> tags. 
+-->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%" valign="top">
 
-```typescript
+<pre lang="typescript">
 // nitish.config.ts
 const nitish = {
     role: "Full-Stack Developer & AI Engineer",
@@ -58,6 +63,18 @@ const nitish = {
     currentlyBuilding: "AI-powered SaaS & Automation Systems",
     availability: "Open for Freelance & Remote Opportunities"
 };
+</pre>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c00-5c0e924a4107.gif" width="400" alt="Coding Animation">
+
+</td>
+</tr>
+</table>
+
+<br>
 ```
 
 </td>
