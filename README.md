@@ -47,23 +47,40 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1&pause=1&color=00FF00&center=true&vCenter=true&width=400&lines=%3E+cat+profile.json" />
 </div>
 
-<!-- ⚠️ BULLETPROOF LAYOUT: Using align="right" instead of HTML tables to guarantee code block rendering -->
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c00-5c0e924a4107.gif" alt="Coding Animation" />
+<br>
 
 ```typescript
+// nitish.config.ts
+const nitish = {
+  role: "Full-Stack Developer & AI Engineer",
+  experience: "7+ Years",
+  company: "Growchip",
+  location: "India 🇮🇳",
+  specialties: [
+    "AI Agents 🤖",
+    "Generative AI 🧠",
+    "SaaS Platforms 🚀",
+    "Workflow Automation ⚡",
+    "Scalable Backend Systems 🏗️"
+  ],
+  techFocus: {
+    frontend: ["React", "Next.js", "TypeScript"],
+    backend: ["Node.js", "Python", "FastAPI"],
+    ai: ["OpenAI", "LangChain", "RAG Systems"],
+    devops: ["Docker", "AWS", "CI/CD"]
+  },
+  currentlyBuilding: "AI-powered SaaS & automation systems",
+  availability: "Open for freelance & remote opportunities 🌍"
+};
+```
+
 <br>
 
 <div align="center">
-
-| 💻 **`nitish.config.ts`** |
-| :--- |
-| <pre>const nitish = {<br>  role: "Full-Stack Developer & AI Engineer",<br>  experience: "7+ Years",<br>  company: "Growchip",<br>  location: "India 🇮🇳",<br><br>  specialties: [<br>    "AI Agents 🤖", "Generative AI 🧠", "SaaS Platforms 🚀",<br>    "Workflow Automation ⚡", "Scalable Backend Systems 🏗️"<br>  ],<br><br>  techFocus: {<br>    frontend: ["React", "Next.js", "TypeScript"],<br>    backend: ["Node.js", "Python", "FastAPI"],<br>    ai: ["OpenAI", "LangChain", "RAG Systems"],<br>    devops: ["Docker", "AWS", "CI/CD"]<br>  },<br><br>  currentlyBuilding: "AI-powered SaaS & automation systems",<br>  availability: "Open for freelance & remote opportunities 🌍"<br>};</pre> |
-
+  <img width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c00-5c0e924a4107.gif" alt="Coding Animation" />
 </div>
 
-<br>```
-
-<br clear="both"/>
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/🚀_7%2B_YEARS-111111?style=for-the-badge&labelColor=7C3AED"/>
@@ -237,3 +254,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:FF0080,50:7928CA,100:00FFFF&animation=twinkling"/>
 </div>
+```
