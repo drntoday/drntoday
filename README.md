@@ -22,22 +22,121 @@
 
 # 👨‍💻 About Me
 
-```ts
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;AI+Automation+Engineer;Building+Scalable+SaaS+Platforms;Creating+AI-Powered+Systems;Turning+Ideas+Into+Products" />
+
+</div>
+
+<table>
+<tr>
+<td width="55%">
+
+```typescript
 const nitish = {
-  role: "Full-Stack Developer & AI Automation Engineer",
-  experience: "7+ Years",
-  location: "India • Remote Worldwide",
-  company: "Growchip",
-  focus: [
-    "AI Agents",
-    "Generative AI",
-    "SaaS Platforms",
-    "Automation Systems",
-    "Scalable Full-Stack Applications"
-  ],
-  currentlyBuilding: "AI-powered SaaS & Workflow Automation Systems",
-  availability: "Open for Freelance & Remote Opportunities"
+    role: "Full-Stack Developer & AI Engineer",
+
+    experience: "7+ Years",
+
+    location: "India • Remote Worldwide",
+
+    company: "Growchip",
+
+    expertise: [
+        "AI Agents",
+        "Generative AI",
+        "SaaS Platforms",
+        "Workflow Automation",
+        "Scalable Architectures"
+    ],
+
+    currentlyBuilding:
+        "AI-powered SaaS & Automation Systems",
+
+    availability:
+        "Open for Freelance & Remote Opportunities"
 };
+```
+
+</td>
+
+<td width="45%">
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=drntoday&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### ⚡ Quick Highlights
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🚀
+## 7+
+Years Experience
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+## AI
+Automation Systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+## SaaS
+Platform Builder
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+## Full-Stack
+Engineering
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🧠 Current Focus
+
+<img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Workflow_Automation-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Scalable_SaaS-0EA5E9?style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+> ### 💡 *"I build intelligent systems that automate workflows, scale businesses, and transform ideas into production-ready products."*
+
+</div>
 ```
 
 I specialize in building intelligent digital systems that combine modern web technologies, AI automation, and scalable backend architecture.
