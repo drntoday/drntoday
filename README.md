@@ -107,9 +107,8 @@ With **7+ years of remote experience**, I turn complex business challenges into 
 
 # 📈 GitHub Stats
 
-![Nitish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=drntoday&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drntoday&layout=compact&theme=tokyonight)
+![GitHub Stats](https://gh-stats.com/api?username=drntoday&show_icons=true&theme=tokyonight)
+![Top Languages](https://gh-stats.com/api/top-langs?username=drntoday&layout=compact&theme=tokyonight)
 
 ---
 
