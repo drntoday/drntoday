@@ -1,4 +1,4 @@
-<!-- 🌟 HERO SECTION 🌟 -->
+<!-- 🌟 ANIMATED HERO BANNER 🌟 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00FFFF&height=300&section=header&text=Nitish%20Kumar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20Automation%20Engineer%20%7C%20SaaS%20Architect&descAlignY=55&descSize=22&descColor=fff&font=Orbitron" width="100%"/>
 </div>
@@ -25,7 +25,7 @@
 
 <br>
 
-<!-- 🧭 NAVIGATION -->
+<!-- 🧭 NAVIGATION BADGES -->
 <div align="center">
 
 [![About](https://img.shields.io/badge/👨‍💻_ABOUT-7C3AED?style=for-the-badge&logoColor=white)](#-about-me)
@@ -47,13 +47,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1&pause=1&color=00FF00&center=true&vCenter=true&width=400&lines=%3E+cat+profile.json" />
 </div>
 
-<br>
+<!-- ⚠️ BULLETPROOF LAYOUT: Using align="right" instead of HTML tables to guarantee code block rendering -->
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c00-5c0e924a4107.gif" alt="Coding Animation" />
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="50%" valign="top">
-
-<pre lang="typescript">
+```typescript
 // nitish.config.ts
 const nitish = {
   role: "Full-Stack Developer & AI Engineer",
@@ -76,20 +73,17 @@ const nitish = {
   currentlyBuilding: "AI-powered SaaS & automation systems",
   availability: "Open for freelance & remote opportunities 🌍"
 };
-</pre>
+```
 
-</td>
-<td width="50%" valign="top" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c00-5c0e924a4107.gif" width="400" alt="Coding Animation">
-  <br><br>
+<br clear="both"/>
+
+<div align="center">
   <img src="https://img.shields.io/badge/🚀_7%2B_YEARS-111111?style=for-the-badge&labelColor=7C3AED"/>
   <img src="https://img.shields.io/badge/🤖_AI_MASTER-111111?style=for-the-badge&labelColor=FF0080"/>
   <br>
   <img src="https://img.shields.io/badge/🌐_SAAS_ARCH-111111?style=for-the-badge&labelColor=00FFFF"/>
   <img src="https://img.shields.io/badge/⚡_FULL_STACK-111111?style=for-the-badge&labelColor=00FF00"/>
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
@@ -100,31 +94,10 @@ const nitish = {
 
 <br>
 
-<table width="100%" border="0">
-<tr>
-<td width="33%" align="center" valign="top">
-  <h2>🌐 SaaS Platforms</h2>
-  <img src="https://img.shields.io/badge/Multi--Tenant_Apps-0D1117?style=flat-square&logo=vercel&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/Admin_Dashboards-0D1117?style=flat-square&logo=react&logoColor=61DAFB" /><br>
-  <img src="https://img.shields.io/badge/Subscription_Systems-0D1117?style=flat-square&logo=stripe&logoColor=008CDD" /><br>
-  <img src="https://img.shields.io/badge/Analytics_Engines-0D1117?style=flat-square&logo=googleanalytics&logoColor=E37400" />
-</td>
-<td width="33%" align="center" valign="top">
-  <h2>🤖 AI Automation</h2>
-  <img src="https://img.shields.io/badge/Autonomous_Agents-0D1117?style=flat-square&logo=openai&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/GPT_Workflows-0D1117?style=flat-square&logo=langchain&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/RAG_Pipelines-0D1117?style=flat-square&logo=apacheairflow&logoColor=00C7D4" /><br>
-  <img src="https://img.shields.io/badge/CRM_Automation-0D1117?style=flat-square&logo=hubspot&logoColor=FF7A59" />
-</td>
-<td width="33%" align="center" valign="top">
-  <h2>⚡ Modern Web Apps</h2>
-  <img src="https://img.shields.io/badge/Next.js_Apps-0D1117?style=flat-square&logo=next.js&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/REST_%26_GraphQL-0D1117?style=flat-square&logo=graphql&logoColor=E10098" /><br>
-  <img src="https://img.shields.io/badge/Realtime_Systems-0D1117?style=flat-square&logo=socket.io&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/Cloud_Infra-0D1117?style=flat-square&logo=amazonaws&logoColor=FF9900" />
-</td>
-</tr>
-</table>
+| 🌐 SaaS Platforms | 🤖 AI Automation | ⚡ Modern Web Apps |
+| :--- | :--- | :--- |
+| Scalable modern software products built for startups & businesses. | Intelligent systems that automate workflows & operations. | High-performance applications optimized for scale. |
+| `Multi-Tenant Apps` <br> `Admin Dashboards` <br> `Subscription Platforms` <br> `Analytics Systems` | `AI Agents` <br> `GPT Workflows` <br> `RAG Pipelines` <br> `CRM Automation` | `Next.js Apps` <br> `REST APIs` <br> `Realtime Systems` <br> `Cloud Infrastructure` |
 
 <br>
 
@@ -216,56 +189,33 @@ const nitish = {
 
 <br>
 
-<table width="100%" border="0">
-<tr>
-<td width="5%" valign="top" align="center">
-  <h1>🚀</h1>
-</td>
-<td width="95%" valign="top">
-  <h3>Full-Stack & AI Developer — <span style="color: #FF0080">Growchip</span></h3>
-  <p><strong>2023 — Present</strong></p>
-  <ul>
-    <li>Built AI-powered SaaS applications using React, Node.js, OpenAI & LangChain</li>
-    <li>Developed systems handling <strong>10K+ monthly AI requests</strong></li>
-    <li>Improved backend performance & automation efficiency</li>
-    <li>Delivered scalable production-ready architectures</li>
-  </ul>
-</td>
-</tr>
-<tr>
-<td width="5%" valign="top" align="center">
-  <h1>🤖</h1>
-</td>
-<td width="95%" valign="top">
-  <h3>AI Integration Specialist — <span style="color: #00FFFF">Dexter AI Solution</span></h3>
-  <p><strong>2021 — 2023</strong></p>
-  <ul>
-    <li>Engineered GPT-powered automation workflows</li>
-    <li>Built intelligent lead qualification systems</li>
-    <li>Automated CRM pipelines & operational systems</li>
-    <li>Managed Docker deployments & CI/CD infrastructure</li>
-  </ul>
-</td>
-</tr>
-<tr>
-<td width="5%" valign="top" align="center">
-  <h1>💻</h1>
-</td>
-<td width="95%" valign="top">
-  <h3>Junior Full-Stack Developer — <span style="color: #FFD700">Richestsoft</span></h3>
-  <p><strong>2018 — 2021</strong></p>
-  <ul>
-    <li>Developed responsive web & e-commerce applications</li>
-    <li>Migrated legacy systems to MERN architecture</li>
-    <li>Built real-time systems with Firebase & WebSockets</li>
-  </ul>
-</td>
-</tr>
-</table>
+### 🚀 Full-Stack & AI Developer — **Growchip**
+**2023 — Present**
+- Built AI-powered SaaS applications using React, Node.js, OpenAI & LangChain
+- Developed systems handling **10K+ monthly AI requests**
+- Improved backend performance & automation efficiency
+- Delivered scalable production-ready architectures
 
 <br>
 
-<!-- 📫 CONNECT -->
+### 🤖 AI Integration Specialist — **Dexter AI Solution**
+**2021 — 2023**
+- Engineered GPT-powered automation workflows
+- Built intelligent lead qualification systems
+- Automated CRM pipelines & operational systems
+- Managed Docker deployments & CI/CD infrastructure
+
+<br>
+
+### 💻 Junior Full-Stack Developer — **Richestsoft**
+**2018 — 2021**
+- Developed responsive web & e-commerce applications
+- Migrated legacy systems to MERN architecture
+- Built real-time systems with Firebase & WebSockets
+
+<br>
+
+<!-- 📫 CONNECT WITH ME -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=0:00FF00,100:00FFFF&text=📫+CONNECT+WITH+ME&fontAlign=50&fontSize=50&fontColor=000&animation=scaleIn&font=Orbitron" width="100%"/>
 </div>
@@ -289,6 +239,13 @@ const nitish = {
 
 <br>
 
+<div align="center">
+  ⭐ If you like my work, consider following, collaborating, or supporting my projects.
+</div>
+
+<br>
+
+<!-- 🌊 FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:FF0080,50:7928CA,100:00FFFF&animation=twinkling"/>
 </div>
