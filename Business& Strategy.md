@@ -112,7 +112,7 @@ To execute this globally, we need an automated, scalable outbound infrastructure
 
 ### 📅 Project Management & Milestones
 **Week 1: Infrastructure & Warm-up**
-*   Configure DNS records (SPF, DKIM, DMARC) for `hello@nitishkumar.pro`.
+*   Configure DNS records (SPF, DKIM, DMARC) for `maira@nitishkumar.pro`.
 *   Set up Instantly.ai and begin warming up the email inbox (14-day warm-up period).
 *   Finalize the ICP scraping criteria in Apollo.io.
 
