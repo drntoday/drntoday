@@ -106,7 +106,7 @@ Our primary targets are Digital Agency Owners (who need white-label overflow) an
 ### ⚙️ Technical Architecture & Dev Plan
 To execute this globally, we need an automated, scalable outbound infrastructure. 
 *   **Data Sourcing:** Apollo.io and LinkedIn Sales Navigator for scraping verified emails and phone numbers of target ICPs.
-*   **Email Infrastructure:** Instantly.ai or Smartlead.ai for cold email delivery. We will use the primary domain `nitishkumar.pro` and set up proper SPF, DKIM, and DMARC records for `hello@nitishkumar.pro`.
+*   **Email Infrastructure:** Instantly.ai or Smartlead.ai for cold email delivery. We will use the primary domain `nitishkumar.pro` and set up proper SPF, DKIM, and DMARC records for `maira@nitishkumar.pro`.
 *   **LinkedIn Automation:** PhantomBuster or Dripify for automated connection requests and profile views.
 *   **CRM & Tracking:** HubSpot (free tier) or Notion to track lead status, communication history, and prototype delivery stages.
 
@@ -133,7 +133,7 @@ To execute this globally, we need an automated, scalable outbound infrastructure
 
 ### 📡 Communication Strategy
 *   **Recommended Channel:** Cold Email (Primary), LinkedIn DM (Secondary).
-*   **Recommended Sender:** hello@nitishkumar.pro
+*   **Recommended Sender:** maira@nitishkumar.pro
 *   **Intended Recipient:** Decision Makers (Founders, CTOs, Agency Owners).
 *   **Communication Goal:** Secure agreement to build a Free Prototype.
 *   **Follow-Up Plan:** 3-step email sequence (Day 1, Day 3, Day 7). If no reply, connect on LinkedIn with a soft note.
@@ -142,7 +142,7 @@ To execute this globally, we need an automated, scalable outbound infrastructure
 ### ✉️ Client Communication Draft
 
 **Template 1: Initial Cold Outreach**
-Recommended Sender: hello@nitishkumar.pro
+Recommended Sender: maira@nitishkumar.pro
 Subject: Overflow dev capacity / AI integration
 
 Hi [Name],
@@ -160,7 +160,7 @@ Nitish
 https://www.nitishkumar.pro/
 
 **Template 2: The NDA / Proof of Work Pivot**
-Recommended Sender: hello@nitishkumar.pro
+Recommended Sender: maira@nitishkumar.pro
 Subject: Re: Past code / Portfolio
 
 Hi [Name],
@@ -179,7 +179,7 @@ https://www.nitishkumar.pro/
 
 ### 💰 Commercial & Revenue Opportunities
 *   **Entry Point:** Free Prototype (Costs minimal time, builds immense trust, eliminates competitor comparison).
-*   **Core Revenue:** Fixed-price MVP builds ($5k–$15k) or Monthly AI Automation Retainers ($1.5k–$3k/mo).
+*   **Core Revenue:** Fixed-price MVP builds ($1k–$10k) or Monthly AI Automation Retainers ($0.5k–$1.5k/mo).
 *   **Payment Collection:** All invoices will be processed via PayPal or Payoneer to ensure smooth international B2B transactions and protect cash flow.
 *   **Upsell:** Post-launch AWS/DevOps optimization, scaling AI agents, and ongoing maintenance contracts.
 
@@ -218,7 +218,7 @@ Scope creep kills profitability. We defend the Statement of Work (SOW) ruthlessl
 
 **1. Pricing & Packaging**
 *   **Custom Web Apps / MVPs:** Fixed price ($5k–$15k). Terms: 50% upfront, 50% on deployment.
-*   **AI Automation / Agency Overflow:** Monthly retainer ($1.5k–$3k/mo). Billed on the 1st of the month.
+*   **AI Automation / Agency Overflow:** Monthly retainer ($0.5k–$1.5k/mo). Billed on the 1st of the month.
 *   **The Rule:** We never compete on price. We compete on architecture, speed, and zero technical debt. 
 
 **2. Invoicing & Cash Flow**
@@ -250,7 +250,7 @@ This is the daily execution manual. It ensures that whether you are operating so
 
 #### 1. Daily Communication Routing SOP
 Every email address has a single, strict purpose. Do not mix them.
-*   **`hello@nitishkumar.pro`**: Outbound lead generation and inbound sales inquiries. 
+*   **`maira@nitishkumar.pro`**: Outbound lead generation and inbound sales inquiries. 
 *   **`meeting@nitishkumar.pro`**: Automated calendar invites and discovery call confirmations only.
 *   **`billing@nitishkumar.pro`**: Invoices, PayPal/Payoneer links, and payment reminders.
 *   **`contracts@nitishkumar.pro`**: NDAs, MSAs, and SOWs. 
