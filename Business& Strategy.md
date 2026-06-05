@@ -548,27 +548,3 @@ Execution Rule for All 50 Targets
 When reaching out to any of these 50 targets, if they ask for past code or portfolio proof, remember our strict boundary: recent repositories are under NDA. Pivot immediately to offering a custom, pre‑estimated free prototype to prove your skills live. Do not deviate.
 
 ---
-
-✅ Final Alignment Summary – All Conflicts Resolved
-
-Item Original Conflict Final Resolution (This Document)
-MVP pricing $1k–$10k vs $5k–$15k **Minimum $2,500** (hard floor) / Standard $5k–$15k
-Monthly retainer $0.5k–$1.5k vs $1.5k–$3k **Minimum $800/mo** (hard floor) / Standard $1.5k–$3k/mo
-Free prototype scope Not defined in original 8‑10 hours, one API/agent/component, staging link or Loom
-Email purposes Mixed usage Strict routing table (maira, meeting, billing, contracts)
-NDA script Two variations Single locked script (Template 2 – no apology, pivot to prototype)
-Portfolio link Inconsistent Mandatory in all email signatures, proposals, SOWs, READMEs
-Pricing philosophy Missing from early sections Explicit statement added in section 1.5
-Technical stack Partial conflicts Unified: Next.js + TypeScript + Tailwind (frontend); Node or Python (backend); PostgreSQL default
-Disqualifiers Vague Specific: budget <$2.5k, unrealistic timeline, no NDA, unlimited revisions
-
----
-
-This document is the single source of truth for Nitish Kumar’s agency operations.
-No deviations without written amendment and version update.
-
-Portfolio: https://www.nitishkumar.pro/
-Last updated: 2026‑06‑05
-Word count: ~3,500 (complete, comprehensive, fully aligned)
-
----
